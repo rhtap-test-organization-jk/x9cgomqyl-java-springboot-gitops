@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: x9cgomqyl-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/x9cgomqyl-java-springboot-gitops
